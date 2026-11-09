@@ -1,0 +1,17 @@
+# KiCad temporary and lock files
+*.lck
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*-backups/
+_autosave-*
+*.kicad_wks-bak
+
+# Editor files
+*~
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
